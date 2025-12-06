@@ -1,0 +1,4 @@
+this game was created only for the purpose of revision and relearning
+the python base logic functions in a fun way.
+
+the arithmetic logic was used for the purpose of later being used in a granduer project (not a high end grandeur but surely a good enough granduer)
